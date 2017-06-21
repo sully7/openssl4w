@@ -1,0 +1,4 @@
+win32/libcrypto/x64/
+win32/libssl/x64/
+*.opendb
+openssl.VC.db
