@@ -1,4 +1,12 @@
+win32/Debug/
+win32/Release/
+win32/x64/
+win32/libcrypto/Debug/
+win32/libcrypto/Release/
 win32/libcrypto/x64/
+win32/libssl/Debug/
+win32/libssl/Release/
 win32/libssl/x64/
+win32/libcrypto/uplink-x86_64.obj
 *.opendb
 openssl.VC.db
